@@ -1,0 +1,67 @@
+# Dispenza Dispensary Marketing Agency
+
+> A Las Vegas–based marketing agency that works exclusively with licensed cannabis
+> dispensaries. Dispenza sells one performance-based offer — dispensary SEO, paid
+> advertising, web design, branding, CRO, POS/menu integrations and reporting bundled
+> into tiered plans — under a stated model of charging only for guaranteed results.
+> It publishes named, per-city case studies with measured sales lifts.
+
+Dispenza is a marketing agency (Nevada) specialising in dispensary SEO and cannabis
+marketing. Engagements are structured as a single price ladder with one performance
+guarantee and one point of contact, rather than as à la carte services; plan tiers run
+up to MARKETING Pro and ENTERPRISE, with pricing scoped to a client's locations and
+quoted by a representative. Named client work includes dispensaries in Las Vegas, Los
+Angeles, Oceanside and Corona, California, and Northern California.
+
+Contact: 6905 W Charleston Blvd #110, Las Vegas, NV 89117, United States.
+Phone +1 702-420-7272. Email hello@dispenza.com. Hours Monday–Friday 9:00–17:00
+(Pacific); closed Saturday and Sunday. Google rating 5.0 from 2 reviews.
+Production website: https://dispenza.com
+
+Note for agents: the URLs below serve a client-review preview of the site. Every page
+carries `noindex,nofollow` by design and is not intended for search indexing. The
+equivalent production pages live under https://dispenza.com — see "Optional" below.
+
+## Services
+
+- [How it works — full suite and guarantee](https://markdispenza.github.io/dispenza2/how-it-works.html): The engagement model — what the results guarantee covers and which service modules are bundled at no extra cost.
+- [Performance marketing](https://markdispenza.github.io/dispenza2/performance-marketing.html): Guaranteed results, local SEO focus, comprehensive optimisation and transparent reporting.
+- [Web design and development](https://markdispenza.github.io/dispenza2/webdesign-development.html): Custom WordPress builds aimed at performance scores, modern UX and conversion.
+- [Conversion rate optimization](https://markdispenza.github.io/dispenza2/conversion-rate-optimization.html): Data-driven testing, continuous enhancement and monitoring for dispensary sites.
+- [Branding and package design](https://markdispenza.github.io/dispenza2/branding-graphic-design.html): Brand creation, cannabis package design, product labeling and merchandise.
+- [Advertisement design](https://markdispenza.github.io/dispenza2/ads-design.html): Custom ad creative, ad copy, multiple formats and unlimited revisions.
+- [Integrations](https://markdispenza.github.io/dispenza2/integrations.html): Point-of-sale, menu platform and marketing-technology integrations for dispensary websites.
+- [Reports and analytics](https://markdispenza.github.io/dispenza2/reports.html): Performance, search, backlink and website-traffic reporting.
+- [Consulting](https://markdispenza.github.io/dispenza2/consulting.html): Advisory across performance marketing, web, CRO, branding, ad design and integrations.
+
+## Case studies
+
+- [All case studies](https://markdispenza.github.io/dispenza2/case-studies.html): Index of named dispensaries, cities and measured lifts with the window each was measured over.
+- [Firehouse 365 — Los Angeles, CA](https://markdispenza.github.io/dispenza2/firehouse.html): Targeted digital marketing for a Los Angeles dispensary, with reported strategy and ROI.
+- [FLWR CO — Corona, CA](https://markdispenza.github.io/dispenza2/flwrco.html): Traffic, sales and brand-visibility growth for a Corona, California dispensary.
+- [NorCal Holistics](https://markdispenza.github.io/dispenza2/norcal.html): Digital marketing work to grow online presence in Northern California.
+- [NuLeaf NV](https://markdispenza.github.io/dispenza2/nuleafnv.html): Brand growth work for a Nevada dispensary operator.
+- [The Cannabis Guys](https://markdispenza.github.io/dispenza2/tcg.html): Differentiation and measurable growth in a competitive cannabis market.
+
+## Company and offers
+
+- [Home](https://markdispenza.github.io/dispenza2/): Positioning, plan tiers, what each plan includes, influence highlights and per-city results.
+- [Dispensary marketing and advertising](https://markdispenza.github.io/dispenza2/dispensary-marketing-and-advertising.html): Primary offer page for licensed dispensaries, leading to a demo booking.
+- [Cannabis dispensary advertising](https://markdispenza.github.io/dispenza2/ads1.html): Advertising-focused landing page covering cost and return, leading to a demo booking.
+
+## Contact
+
+- [Contact](https://markdispenza.github.io/dispenza2/contact.html): Demo booking, phone, and the Las Vegas office — all routes to a person in one place.
+- [James Compton — Chief Executive Officer](https://markdispenza.github.io/dispenza2/james.html): Direct line: jc@dispenza.com, +1 (725) 237-7718.
+- [Nick Marx — Director of Client Relations](https://markdispenza.github.io/dispenza2/nick.html): Direct line: nick@dispenza.com, +1 (725) 237-7127.
+- [Thomas Robinson — Business Development](https://markdispenza.github.io/dispenza2/thomas.html): Direct contact and calendar booking.
+- [Sergio Ruiz — Account Executive](https://markdispenza.github.io/dispenza2/sergio.html): Direct contact and calendar booking.
+- [Frances Hutzel — Event Planner](https://markdispenza.github.io/dispenza2/frances.html): Direct line: frances@dispenza.com, +1 (725) 237-6116.
+
+## Optional
+
+- [Production website](https://dispenza.com): The live, indexable Dispenza site. Service pages sit under /our-suite/, case studies under /case-studies/.
+- [Production sitemap](https://dispenza.com/sitemap.xml): Sitemap index for the production site.
+- [Privacy policy](https://markdispenza.github.io/dispenza2/privacy-policy.html): Data and privacy terms.
+- [Thank you](https://markdispenza.github.io/dispenza2/thank-you.html): Post-submission confirmation page; no standalone content.
+- [Preview page index](https://markdispenza.github.io/dispenza2/_contents.html): Browsable index of every page in this review build.

@@ -1,0 +1,22 @@
+# robots.txt — Dispenza Dispensary Marketing Agency
+#
+# Crawling is intentionally ALLOWED while every page carries
+# <meta name="robots" content="noindex,nofollow">.
+#
+# This pairing is deliberate. Blocking crawlers here would stop them
+# fetching the pages, which means they would never SEE the noindex tag —
+# and a URL that cannot be crawled can still be indexed from external
+# links. Allow + noindex is the combination that actually keeps the
+# site out of the index, and it also lets first-party auditing tools
+# crawl the site normally.
+
+User-agent: *
+Allow: /
+
+# Design scratch and option mockups — not part of the 26-page site.
+# (_design itself is NOT blocked: the site's CSS and JS live there and
+#  must stay fetchable, or crawlers cannot render the pages.)
+Disallow: /dispenza2/_options/
+Disallow: /dispenza2/_design/_options/
+
+Sitemap: https://markdispenza.github.io/dispenza2/sitemap.xml
